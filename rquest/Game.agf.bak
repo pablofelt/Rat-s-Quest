@@ -1804,14 +1804,14 @@
         <ID>0</ID>
         <ScriptName>guido</ScriptName>
         <RealName>Guido</RealName>
-        <NormalView>1</NormalView>
+        <NormalView>3</NormalView>
         <SpeechView>0</SpeechView>
         <IdleView>0</IdleView>
         <ThinkingView>0</ThinkingView>
         <BlinkingView>0</BlinkingView>
         <StartingRoom>1</StartingRoom>
-        <StartX>200</StartX>
-        <StartY>200</StartY>
+        <StartX>500</StartX>
+        <StartY>500</StartY>
         <UniformMovementSpeed>True</UniformMovementSpeed>
         <MovementSpeed>3</MovementSpeed>
         <MovementSpeedX>3</MovementSpeedX>
@@ -1881,7 +1881,7 @@
         </Interactions>
       </Character>
     </Characters>
-    <PlayerCharacter>1</PlayerCharacter>
+    <PlayerCharacter>0</PlayerCharacter>
     <Dialogs>
       <Dialog>
         <ID>0</ID>
@@ -2478,6 +2478,46 @@ return
               </Sprite>
             </Sprites>
           </SpriteFolder>
+          <SpriteFolder Name="guido">
+            <SubFolders>
+              <SpriteFolder Name="left">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="22" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\plf1\Documents\guido\1.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="23" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\plf1\Documents\guido\2.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="24" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\plf1\Documents\guido\3.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="25" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\plf1\Documents\guido\4.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="26" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\plf1\Documents\guido\5.png</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="27" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                    <Source>
+                      <FileName>C:\Users\plf1\Documents\guido\6.png</FileName>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+            </SubFolders>
+            <Sprites />
+          </SpriteFolder>
         </SubFolders>
         <Sprites>
           <Sprite Slot="0" Width="10" Height="6" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
@@ -2819,20 +2859,113 @@ return
           </View>
           <View>
             <ID>3</ID>
-            <Name>GuidoView</Name>
+            <Name>GuidoCrawl</Name>
             <Loops>
               <Loop>
                 <ID>0</ID>
                 <RunNextLoop>False</RunNextLoop>
+                <Frames />
+              </Loop>
+              <Loop>
+                <ID>1</ID>
+                <RunNextLoop>False</RunNextLoop>
                 <Frames>
                   <ViewFrame>
                     <ID>0</ID>
-                    <Image>0</Image>
+                    <Image>22</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>23</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>24</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>25</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>26</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>27</Image>
                     <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                 </Frames>
+              </Loop>
+              <Loop>
+                <ID>2</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames>
+                  <ViewFrame>
+                    <ID>0</ID>
+                    <Image>22</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>1</ID>
+                    <Image>23</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>2</ID>
+                    <Image>24</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>3</ID>
+                    <Image>25</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>4</ID>
+                    <Image>26</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                  <ViewFrame>
+                    <ID>5</ID>
+                    <Image>27</Image>
+                    <Flipped>False</Flipped>
+                    <Delay>0</Delay>
+                    <Sound>0</Sound>
+                  </ViewFrame>
+                </Frames>
+              </Loop>
+              <Loop>
+                <ID>3</ID>
+                <RunNextLoop>False</RunNextLoop>
+                <Frames />
               </Loop>
             </Loops>
           </View>
