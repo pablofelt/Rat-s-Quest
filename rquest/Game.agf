@@ -604,6 +604,210 @@
         <Number>1</Number>
         <Description IsNull="True" />
       </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>2</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>3</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>4</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>5</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>6</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>7</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>8</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>9</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>10</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>11</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>12</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>13</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>14</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>15</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>16</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>17</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>18</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>19</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>20</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>21</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>22</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>23</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>24</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>25</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>26</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>27</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>28</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>29</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>30</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>31</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>32</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>33</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>34</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>35</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>36</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>37</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>38</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>39</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>40</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>41</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>42</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>43</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>44</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>45</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>46</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>47</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>48</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>49</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>50</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>51</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
+      <UnloadedRoom>
+        <Number>52</Number>
+        <Description IsNull="True" />
+      </UnloadedRoom>
     </Rooms>
     <GUIs>
       <GUIMain>
@@ -1881,7 +2085,7 @@
         </Interactions>
       </Character>
     </Characters>
-    <PlayerCharacter>0</PlayerCharacter>
+    <PlayerCharacter>1</PlayerCharacter>
     <Dialogs>
       <Dialog>
         <ID>0</ID>
@@ -2381,46 +2585,6 @@ return
           </SpriteFolder>
           <SpriteFolder Name="shauna">
             <SubFolders>
-              <SpriteFolder Name="right">
-                <SubFolders />
-                <Sprites>
-                  <Sprite Slot="7" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
-                    <Source>
-                      <FileName>C:\Users\plf1\Desktop\shauna\1layers.png</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="8" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
-                    <Source>
-                      <FileName>C:\Users\plf1\Desktop\shauna\2layers.png</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="9" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
-                    <Source>
-                      <FileName>C:\Users\plf1\Desktop\shauna\3layers.png</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="10" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
-                    <Source>
-                      <FileName>C:\Users\plf1\Desktop\shauna\4layers.png</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="11" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
-                    <Source>
-                      <FileName>C:\Users\plf1\Desktop\shauna\5layers.png</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="12" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
-                    <Source>
-                      <FileName>C:\Users\plf1\Desktop\shauna\6layers.png</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="13" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
-                    <Source>
-                      <FileName>C:\Users\plf1\Desktop\shauna\7layers.png</FileName>
-                    </Source>
-                  </Sprite>
-                </Sprites>
-              </SpriteFolder>
               <SpriteFolder Name="left">
                 <SubFolders />
                 <Sprites>
@@ -2461,14 +2625,6 @@ return
                   </Sprite>
                 </Sprites>
               </SpriteFolder>
-              <SpriteFolder Name="up">
-                <SubFolders />
-                <Sprites />
-              </SpriteFolder>
-              <SpriteFolder Name="down">
-                <SubFolders />
-                <Sprites />
-              </SpriteFolder>
             </SubFolders>
             <Sprites>
               <Sprite Slot="14" Width="100" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
@@ -2480,37 +2636,37 @@ return
           </SpriteFolder>
           <SpriteFolder Name="guido">
             <SubFolders>
-              <SpriteFolder Name="left">
+              <SpriteFolder Name="crawling">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="22" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                  <Sprite Slot="22" Width="170" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\plf1\Documents\guido\1.png</FileName>
+                      <FileName>C:\Users\plf1\Desktop\animals\1.png</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="23" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                  <Sprite Slot="23" Width="170" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\plf1\Documents\guido\2.png</FileName>
+                      <FileName>C:\Users\plf1\Desktop\animals\2.png</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="24" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                  <Sprite Slot="24" Width="183" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\plf1\Documents\guido\3.png</FileName>
+                      <FileName>C:\Users\plf1\Desktop\animals\3.png</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="25" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\plf1\Documents\guido\4.png</FileName>
+                      <FileName>C:\Users\plf1\Desktop\animals\4.png</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="26" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                  <Sprite Slot="26" Width="170" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\plf1\Documents\guido\5.png</FileName>
+                      <FileName>C:\Users\plf1\Desktop\animals\5.png</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="27" Width="158" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+                  <Sprite Slot="27" Width="170" Height="100" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                     <Source>
-                      <FileName>C:\Users\plf1\Documents\guido\6.png</FileName>
+                      <FileName>C:\Users\plf1\Desktop\animals\6.png</FileName>
                     </Source>
                   </Sprite>
                 </Sprites>
@@ -2921,42 +3077,42 @@ return
                   <ViewFrame>
                     <ID>0</ID>
                     <Image>22</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
                     <Image>23</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
                     <Image>24</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
                     <Image>25</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>4</ID>
                     <Image>26</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>5</ID>
                     <Image>27</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
@@ -2985,7 +3141,7 @@ return
                   <ViewFrame>
                     <ID>0</ID>
                     <Image>14</Image>
-                    <Flipped>False</Flipped>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
@@ -3053,50 +3209,50 @@ return
                   </ViewFrame>
                   <ViewFrame>
                     <ID>1</ID>
-                    <Image>7</Image>
-                    <Flipped>False</Flipped>
+                    <Image>15</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>2</ID>
-                    <Image>8</Image>
-                    <Flipped>False</Flipped>
+                    <Image>16</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>3</ID>
-                    <Image>9</Image>
-                    <Flipped>False</Flipped>
+                    <Image>17</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>4</ID>
-                    <Image>10</Image>
-                    <Flipped>False</Flipped>
+                    <Image>18</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>5</ID>
-                    <Image>11</Image>
-                    <Flipped>False</Flipped>
+                    <Image>19</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>6</ID>
-                    <Image>12</Image>
-                    <Flipped>False</Flipped>
+                    <Image>20</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
                   <ViewFrame>
                     <ID>7</ID>
-                    <Image>13</Image>
-                    <Flipped>False</Flipped>
+                    <Image>21</Image>
+                    <Flipped>True</Flipped>
                     <Delay>0</Delay>
                     <Sound>0</Sound>
                   </ViewFrame>
