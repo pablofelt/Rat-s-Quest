@@ -795,15 +795,7 @@
         <Description IsNull="True" />
       </UnloadedRoom>
       <UnloadedRoom>
-        <Number>49</Number>
-        <Description IsNull="True" />
-      </UnloadedRoom>
-      <UnloadedRoom>
         <Number>50</Number>
-        <Description IsNull="True" />
-      </UnloadedRoom>
-      <UnloadedRoom>
-        <Number>51</Number>
         <Description IsNull="True" />
       </UnloadedRoom>
       <UnloadedRoom>
