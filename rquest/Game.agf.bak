@@ -2058,7 +2058,7 @@
         <StartX>500</StartX>
         <StartY>500</StartY>
         <UniformMovementSpeed>True</UniformMovementSpeed>
-        <MovementSpeed>3</MovementSpeed>
+        <MovementSpeed>5</MovementSpeed>
         <MovementSpeedX>3</MovementSpeedX>
         <MovementSpeedY>0</MovementSpeedY>
         <AnimationDelay>4</AnimationDelay>
@@ -2070,7 +2070,7 @@
         <UseRoomAreaLighting>True</UseRoomAreaLighting>
         <TurnBeforeWalking>True</TurnBeforeWalking>
         <DiagonalLoops>True</DiagonalLoops>
-        <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
+        <AdjustSpeedWithScaling>True</AdjustSpeedWithScaling>
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <MovementLinkedToAnimation>True</MovementLinkedToAnimation>
         <Properties />
@@ -2110,7 +2110,7 @@
         <UseRoomAreaLighting>True</UseRoomAreaLighting>
         <TurnBeforeWalking>True</TurnBeforeWalking>
         <DiagonalLoops>True</DiagonalLoops>
-        <AdjustSpeedWithScaling>False</AdjustSpeedWithScaling>
+        <AdjustSpeedWithScaling>True</AdjustSpeedWithScaling>
         <AdjustVolumeWithScaling>False</AdjustVolumeWithScaling>
         <MovementLinkedToAnimation>True</MovementLinkedToAnimation>
         <Properties />
@@ -3392,24 +3392,24 @@ See KeyboardMovement.txt for details.
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Music</Name>
         <TypeID>2</TypeID>
+        <Name>Music</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
       <AudioClipType>
-        <Name>Sound</Name>
         <TypeID>3</TypeID>
+        <Name>Sound</Name>
         <MaxChannels>0</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
