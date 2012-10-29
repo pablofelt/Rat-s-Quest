@@ -11,3 +11,6 @@ import function display_bush_look_message();
 import function display_bullrushes_look_message();
 import function display_lake_look_message();
 import function display_mountains_look_message();
+import function display_pot_look_message();
+import function display_door_look_message();
+import function display_steps_look_message();
