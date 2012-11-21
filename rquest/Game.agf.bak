@@ -2106,7 +2106,7 @@
         </Interactions>
       </Character>
     </Characters>
-    <PlayerCharacter>1</PlayerCharacter>
+    <PlayerCharacter>0</PlayerCharacter>
     <Dialogs>
       <Dialog>
         <ID>0</ID>
