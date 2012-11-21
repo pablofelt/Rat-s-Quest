@@ -2106,7 +2106,11 @@
         </Interactions>
       </Character>
     </Characters>
+<<<<<<< HEAD
     <PlayerCharacter>1</PlayerCharacter>
+=======
+    <PlayerCharacter>0</PlayerCharacter>
+>>>>>>> some room descriptions
     <Dialogs>
       <Dialog>
         <ID>0</ID>
@@ -3407,8 +3411,13 @@ See KeyboardMovement.txt for details.
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
+<<<<<<< HEAD
         <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+=======
+        <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
+>>>>>>> some room descriptions
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
