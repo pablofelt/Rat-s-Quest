@@ -5,3 +5,5 @@ Compiled/
 *.agf.bak
 *.lock
 *~
+acsetup.cfg
+rquest.exe
