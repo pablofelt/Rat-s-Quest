@@ -1,2 +1,7 @@
-﻿*.exe
+﻿_Debug/
+Compiled/
+*.exe
+*.agf
+*.agf.bak
 *.lock
+*~
