@@ -3,3 +3,4 @@
 3 - dig animation
 4 - bird hunting
 5 - bird hunting
+6 - moore deaths
