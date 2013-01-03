@@ -17,5 +17,3 @@ import function display_steps_look_message();
 import function display_driveway_look_message();
 import function display_roof_look_message();
 import function display_chimney_look_message();
-import function dig(InventoryItem *item=0, int chanceToUncoverItem=0, int chanceToUncoverRandomItem=50);
-import function abs_val(int x);
