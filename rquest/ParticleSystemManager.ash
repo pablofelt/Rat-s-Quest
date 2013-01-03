@@ -110,6 +110,8 @@ struct ParticleSystemManager
 	// Public Methods
 
   // PARTICLES SYSTEM MANAGER: Create, destroy and manage particles systems
+  import function DeleteParticleNear(int system, int x, int y, int threshold); // paul: CUSTOM
+  import function IsParticleNear(int system, int x, int y, int threshold); // paul: CUSTOM
   
   import function CreateSystem (int n_particles, bool keep_track = false, enDrawType draw_type = dtBackground, int width = 0, int height = 0);
   import function DeleteLastSystem ();
