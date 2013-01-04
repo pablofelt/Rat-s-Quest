@@ -4,3 +4,5 @@
 4 - bird hunting
 5 - bird hunting
 6 - moore deaths
+7 - final chase
+8 - final chase
