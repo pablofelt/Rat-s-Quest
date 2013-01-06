@@ -1,0 +1,9 @@
+﻿_Debug/
+Compiled/
+*.exe
+*.agf
+*.agf.bak
+*.lock
+*~
+acsetup.cfg
+rquest.exe
