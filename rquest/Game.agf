@@ -1952,7 +1952,11 @@
         <ID>2</ID>
         <HotspotX>0</HotspotX>
         <HotspotY>0</HotspotY>
+<<<<<<< HEAD
         <PlayerStartsWithItem>False</PlayerStartsWithItem>
+=======
+        <PlayerStartsWithItem>True</PlayerStartsWithItem>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         <CursorImage>97</CursorImage>
         <Image>97</Image>
         <Description xml:space="preserve">a tuning fork</Description>
@@ -1970,7 +1974,11 @@
         <ID>3</ID>
         <HotspotX>22</HotspotX>
         <HotspotY>30</HotspotY>
+<<<<<<< HEAD
         <PlayerStartsWithItem>False</PlayerStartsWithItem>
+=======
+        <PlayerStartsWithItem>True</PlayerStartsWithItem>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         <CursorImage>98</CursorImage>
         <Image>99</Image>
         <Description xml:space="preserve">a family tree</Description>
@@ -2006,7 +2014,11 @@
         <ID>5</ID>
         <HotspotX>24</HotspotX>
         <HotspotY>24</HotspotY>
+<<<<<<< HEAD
         <PlayerStartsWithItem>False</PlayerStartsWithItem>
+=======
+        <PlayerStartsWithItem>True</PlayerStartsWithItem>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         <CursorImage>117</CursorImage>
         <Image>117</Image>
         <Description xml:space="preserve">New inventory item</Description>
@@ -2805,7 +2817,11 @@
         <AnimationDelay>4</AnimationDelay>
         <SpeechAnimationDelay>5</SpeechAnimationDelay>
         <SpeechColor>12</SpeechColor>
+<<<<<<< HEAD
         <Solid>True</Solid>
+=======
+        <Solid>False</Solid>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         <Clickable>True</Clickable>
         <UseRoomAreaScaling>True</UseRoomAreaScaling>
         <UseRoomAreaLighting>True</UseRoomAreaLighting>
@@ -4683,32 +4699,56 @@ stop]]></Script>
         <GlobalVariable>
           <Name>IsPaulDead</Name>
           <Type>bool</Type>
+<<<<<<< HEAD
           <DefaultValue>false</DefaultValue>
+=======
+          <DefaultValue>true</DefaultValue>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         </GlobalVariable>
         <GlobalVariable>
           <Name>IsChristianDead</Name>
           <Type>bool</Type>
+<<<<<<< HEAD
           <DefaultValue>false</DefaultValue>
+=======
+          <DefaultValue>true</DefaultValue>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         </GlobalVariable>
         <GlobalVariable>
           <Name>IsTylerDead</Name>
           <Type>bool</Type>
+<<<<<<< HEAD
           <DefaultValue>false</DefaultValue>
+=======
+          <DefaultValue>true</DefaultValue>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         </GlobalVariable>
         <GlobalVariable>
           <Name>IsMargotDead</Name>
           <Type>bool</Type>
+<<<<<<< HEAD
           <DefaultValue>false</DefaultValue>
+=======
+          <DefaultValue>true</DefaultValue>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         </GlobalVariable>
         <GlobalVariable>
           <Name>IsRichDead</Name>
           <Type>bool</Type>
+<<<<<<< HEAD
           <DefaultValue>false</DefaultValue>
+=======
+          <DefaultValue>true</DefaultValue>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         </GlobalVariable>
         <GlobalVariable>
           <Name>IsClaireDead</Name>
           <Type>bool</Type>
+<<<<<<< HEAD
           <DefaultValue>false</DefaultValue>
+=======
+          <DefaultValue>true</DefaultValue>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
         </GlobalVariable>
         <GlobalVariable>
           <Name>IsPaulMarkedForDeath</Name>
@@ -8212,7 +8252,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-18 21:13:25Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-18 07:13:25Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aHelloDolly</ScriptName>
@@ -8224,7 +8268,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2013-01-01 22:51:44Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2013-01-01 08:51:44Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8248,7 +8296,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2010-09-19 08:35:03Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2010-09-18 20:35:03Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aWaves</ScriptName>
@@ -8260,7 +8312,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-30 16:19:13Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-30 02:19:13Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aLeavesRustling</ScriptName>
@@ -8272,7 +8328,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-31 02:34:11Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-30 12:34:11Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aChickadee</ScriptName>
@@ -8284,7 +8344,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-30 21:48:07Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-30 07:48:07Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aTitmouse</ScriptName>
@@ -8296,7 +8360,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-30 23:27:54Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-30 09:27:54Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8320,7 +8388,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-30 16:13:09Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-30 02:13:09Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aLeavesWalking</ScriptName>
@@ -8332,7 +8404,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-30 23:24:24Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-30 09:24:24Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aScreaming</ScriptName>
@@ -8344,7 +8420,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-31 19:47:11Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-31 05:47:11Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aCheer</ScriptName>
@@ -8356,7 +8436,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-31 20:03:12Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-31 06:03:12Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSpookyFanfare</ScriptName>
@@ -8368,7 +8452,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2012-12-31 20:01:43Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2012-12-31 06:01:43Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aShotgunBlast</ScriptName>
@@ -8380,7 +8468,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2013-01-02 23:34:16Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2013-01-02 09:34:16Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMagpieSquawks</ScriptName>
@@ -8392,7 +8484,11 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
+<<<<<<< HEAD
                 <FileLastModifiedDate>2013-01-03 15:14:19Z</FileLastModifiedDate>
+=======
+                <FileLastModifiedDate>2013-01-03 01:14:19Z</FileLastModifiedDate>
+>>>>>>> 05b634f5437db297930123419362e0be152bfde3
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
