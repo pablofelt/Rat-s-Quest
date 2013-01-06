@@ -3653,9 +3653,9 @@ stop
 claire: Greetings, Gadjo. Welcome to the tent of Madame Babulya. 
 return
 @1
-shauna: How are Oma and Opa doing?
+shauna: How long are Oma and Opa going to live?
   if (HasClaireBeenPaid){
-claire: umm
+claire: I forsee good things for those two. Long happy lives with many many bambinos.
   }
   else{
 claire: Cross my palm with silver, then you shall find the answers that you seek.
@@ -8212,7 +8212,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-18 07:13:25Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-18 00:13:25Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aHelloDolly</ScriptName>
@@ -8224,7 +8224,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-01-01 08:51:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-01-01 01:51:44Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8248,7 +8248,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2010-09-18 20:35:03Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2010-09-18 14:35:03Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aWaves</ScriptName>
@@ -8260,7 +8260,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-30 02:19:13Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-29 19:19:13Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aLeavesRustling</ScriptName>
@@ -8272,7 +8272,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-30 12:34:11Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-30 05:34:11Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aChickadee</ScriptName>
@@ -8284,7 +8284,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-30 07:48:07Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-30 00:48:07Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aTitmouse</ScriptName>
@@ -8296,7 +8296,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-30 09:27:54Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-30 02:27:54Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8320,7 +8320,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-30 02:13:09Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-29 19:13:09Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aLeavesWalking</ScriptName>
@@ -8332,7 +8332,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-30 09:24:24Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-30 02:24:24Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aScreaming</ScriptName>
@@ -8344,7 +8344,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-31 05:47:11Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-30 22:47:11Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aCheer</ScriptName>
@@ -8356,7 +8356,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-31 06:03:12Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-30 23:03:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSpookyFanfare</ScriptName>
@@ -8368,7 +8368,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2012-12-31 06:01:43Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2012-12-30 23:01:43Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aShotgunBlast</ScriptName>
@@ -8380,7 +8380,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-01-02 09:34:16Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-01-02 02:34:16Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMagpieSquawks</ScriptName>
@@ -8392,7 +8392,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-01-03 01:14:19Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-01-02 18:14:19Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
